@@ -1,3 +1,5 @@
+#belajarGIT
+
 #Daftar tugas / branch
 #Tugas-git
 #Tugas-html
@@ -6,3 +8,6 @@
 #Tugas-midProject
 #Tugas-php
 #Tugas-finalProject
+
+Daftar Perintah GiT
+...
