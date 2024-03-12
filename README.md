@@ -1,4 +1,4 @@
-#belajarGIT
+#belajar GIT
 
 #Daftar tugas / branch
 #Tugas-git
